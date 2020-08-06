@@ -1,16 +1,13 @@
-### Hi there 👋
+### What's up. 👋
 
-<!--
-**richardle17/richardle17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer with a strong interest in Python, Automation, and Cloud Services. 
+Interested in all things Software Engineering. 
+I'm a newly grad student from SJSU with a BS in Computer Engineering, looking to further my education in the masters program.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously interned at Symantec in Mountain View, working on AWS Automation infrastructure for data analytics for Symantec VIP's service alerters. 
+I was a core member on the intern team, and heavily contributed to the backend framework of the project.
+
+I'm currently open for internship or full time opportunities, feel free to reach out ðŸ˜Š
+Let's solve problems, together.
+richardle17business@gmail.com
