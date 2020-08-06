@@ -9,6 +9,6 @@ I'm a newly grad student from SJSU with a BS in Computer Engineering, looking to
 Previously interned at Symantec in Mountain View, working on AWS Automation infrastructure for data analytics for Symantec VIP's service alerters. 
 I was a core member on the intern team, and heavily contributed to the backend framework of the project.
 
-I'm currently open for internship or full time opportunities, feel free to reach out ðŸ˜Š
+I'm currently open for internship or full time opportunities, feel free to reach out!
 Let's solve problems, together.
 richardle17business@gmail.com
