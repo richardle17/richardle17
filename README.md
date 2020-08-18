@@ -1,6 +1,6 @@
 ### What's up. 👋
 
-I'm a software engineer with a strong interest in Python, Automation, and Cloud Services. 
+I'm a software engineer with a strong interest in Python, Automation, Big Data and Cloud Services. 
 Interested in all things Software Engineering. 
 
 I'm a newly grad student from SJSU with a BS in Computer Engineering, looking to further my education in the masters program.
