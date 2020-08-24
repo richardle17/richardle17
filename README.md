@@ -12,3 +12,5 @@ I was a core member on the intern team, and heavily contributed to the backend f
 I'm currently open for internship or full time opportunities, feel free to reach out!
 Let's solve problems, together.
 richardle17business@gmail.com
+
+Check out my software development portfolio: https://richardle17.github.io/
