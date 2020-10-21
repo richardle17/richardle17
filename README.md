@@ -3,7 +3,7 @@
 I'm a software engineer with a strong interest in Python, Automation, Big Data and Cloud Services. 
 Interested in all things Software Engineering. 
 
-I'm a newly grad engineer from SJSU with a BS in Computer Engineering, looking to further my education in the masters program.
+I'm currently a graduate student at SJSU in the master's program for Software Engineering, specializing in Software Systems Engineering as well as Cloud Computing and Virtualization.
 
 
 Previously interned at Symantec in Mountain View, working on AWS Automation infrastructure for data analytics for Symantec VIP's service alerters. 
