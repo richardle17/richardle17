@@ -1,6 +1,6 @@
 ### What's up. 👋
 
-I'm a software engineer with a strong interest in Python, Automation, Big Data and Cloud Services. 
+I'm a software engineer with a strong interest in Python, Automation, Quality Assurance and Cloud Services. 
 Interested in all things Software Engineering. 
 
 I'm currently a graduate student at SJSU in the master's program for Software Engineering, specializing in Software Systems Engineering as well as Cloud Computing and Virtualization.
