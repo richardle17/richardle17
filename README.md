@@ -1,13 +1,13 @@
 ### What's up. 👋
 
-I'm a software engineer with a strong interest in Python, Automation, Quality Assurance and Cloud Services. 
+I'm a software engineer with a strong interest in Python, Automation, Software Systems, and Cloud Services. 
 Interested in all things Software Engineering. 
 
 I'm currently a graduate student at SJSU in the master's program for Software Engineering, specializing in Software Systems Engineering as well as Cloud Computing and Virtualization.
 
 
-Previously interned at Symantec in Mountain View, working on AWS Automation infrastructure for data analytics for Symantec VIP's service alerters. 
-I was a core member on the intern team, and heavily contributed to the backend framework of the project.
+Previously interned at Symantec in Mountain View, working on an internal tool for Symantec VIP. The tool automated workflow tasks for on-call Site Reliability Engineers by using several AWS services.
+I was a core member on the intern team, and heavily contributed to the design, development, and maintenance of the tool.
 
 I'm currently open for internship or full time opportunities, feel free to reach out!
 Let's solve problems, together.
